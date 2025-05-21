@@ -34,3 +34,7 @@ Launch seasonal campaigns aligned with peak months
 
 📎 Tools Used
  Power BI | Excel | DAX
+
+Dashboard screenshot link :- https://github.com/ShaikAbubakarSiddique/PowerBi_Porject/blob/main/image.png
+DataSet link :- https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset
+Dashboard Download link :- 
